@@ -1,3 +1,5 @@
 exports.getUsers = (req, res) => {
-  res.send("The user data is displayed")
+  res.json({
+    "message": "The server is running in a good condition"
+  })
 };
