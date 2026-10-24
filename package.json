@@ -1,0 +1,21 @@
+{
+  "name": "brand-website-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sb255/brand-website-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sb255/brand-website-backend/issues"
+  },
+  "homepage": "https://github.com/sb255/brand-website-backend#readme"
+}
